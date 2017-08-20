@@ -29,4 +29,4 @@ $ ls target/site/cobertura/index.html
 target/site/cobertura/index.html
 ```
 - to generate static code analysis
--- use [findbugs](https://mvnrepository.com/artifact/org.codehaus.mojo/findbugs-maven-plugin)
+  - use [findbugs](https://mvnrepository.com/artifact/org.codehaus.mojo/findbugs-maven-plugin)
